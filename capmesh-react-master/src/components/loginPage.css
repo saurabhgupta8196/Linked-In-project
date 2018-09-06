@@ -1,0 +1,71 @@
+body, html {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  #bg-img {
+    /* The image used */
+    background-image: url("./background.jpg");
+    min-height: 900px;
+    background-origin: content-box;
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;   
+  }
+  #container{
+    max-width: 450px; /*can be in percentage also.*/
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+    padding: 16px;
+    background-color: rgba(235, 231, 231,0.7);
+  }
+  
+  /* Full-width input fields */
+    #text,#password ,#btn{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    outline: none;
+  }
+  
+  /* Set a style for the submit button */
+  #btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    border: none;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  #btn:hover {
+    opacity: 1;
+  }
+  .a{
+    text-align: center;
+      padding: 15px;
+      left: 30px;
+  }
+  .navbar-brand>img {
+    height: 100%;
+    padding: 0px 40px;
+    float: right;
+    width: auto;
+  }         
+  .navbar-brand {
+    padding: 0px;
+  }
+
+.navbar{
+  margin-bottom:  0px;
+}
+

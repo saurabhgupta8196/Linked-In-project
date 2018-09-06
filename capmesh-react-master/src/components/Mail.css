@@ -1,0 +1,57 @@
+  p
+    {
+      line-height: 1.4;
+      text-align: left;
+    }
+
+    td {
+      word-break: break-word;
+    }
+
+    /* Body ------------------------------ */
+    
+    .email-footer {
+      width: 570px;
+      margin: 0 auto;
+      -premailer-width: 570px;
+      text-align: center;
+    }
+    
+    .email-footer p {
+      color: #AEAEAE;
+    }
+    
+    .body-action {
+      width: 100%;
+      margin: 30px auto;
+      text-align: center;
+    }
+    
+    .content-cell {
+      padding: 35px;
+    }
+     
+    .align-center {
+      text-align: center;
+    }
+    /* Type ------------------------------ */
+    
+    #h3 {
+      margin-top: 0;
+      color: #2F3133;
+      font-weight: bold;
+      text-align: left;
+    }
+    
+    p {
+      margin-top: 0;
+      color: #74787E;
+      font-size: 16px;
+      line-height: 1.5em;
+      text-align: left;
+    }
+    
+    p.sub {
+      font-size: 12px;
+    }
+    

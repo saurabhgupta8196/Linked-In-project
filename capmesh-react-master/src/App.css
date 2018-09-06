@@ -1,0 +1,174 @@
+.App {
+  text-align: center;
+  background-color: #c3c3c3;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.customStyle1{
+  clear: both;
+  padding: 10px;  
+  letter-spacing: 1px;  
+}
+.float-none{
+  clear: both;
+}
+.customHeader{
+  float: left;
+  margin: 50px auto auto 50px;  
+}
+
+
+.customImg{
+  margin: 50px auto auto 35%;
+  height: 120px;
+  width: 100px;
+  border: solid;
+  float: left;
+}
+
+
+
+.btn-job{
+  margin-left: 50px;
+
+}
+
+.btnFJ{
+  margin: 20px auto auto 35%;
+  clear:both;
+}
+
+.App {
+  text-align: center;
+
+}
+
+.card-deck{
+  padding-top: 5ex;
+  box-shadow: 0px 0px 0.5px 0.5px grey;
+}
+
+.card-deck1{
+  padding-top: 5ex
+
+}
+.card-title{
+  float:left;
+}
+.card-text{
+  font-size: 15px;
+}
+h6{
+float:left;
+}
+.loc{
+  font-size:14px;
+}
+.loc{
+  float:left;
+}
+td{
+  padding:1px;
+  height:10px;
+}
+
+.shadows{
+  margin: 30px;
+  padding-bottom: 20px; 
+  height: 100%;
+  box-shadow: 0px 0px 0.5px 0.5px grey;
+  background-color: white;
+}
+
+.shadows1{
+  margin: 30px;
+  padding-bottom: 20px; 
+  height: 100%;
+  box-shadow: 0px 1px 1px 1px grey;
+  background-color: white;
+}
+
+.shadows2{
+  margin: 30px;
+  padding-bottom: 20px; 
+  height: 100%;
+  box-shadow: 0px 0px 0.5px 0.5px grey;
+  background-color: white;
+  
+}
+
+.recent{
+  margin: 30px;
+}
+.postImg{
+  margin: 30px auto auto 30px;
+  height: 50px;
+  width: 50px;
+  border: solid;
+  float: left;
+}
+
+.customHeaderX{
+  float: left;
+  margin: 30px auto auto 30px;  
+}
+
+
+.postSection{
+
+  margin: 20px auto auto 35px;
+  clear:both;
+}
+
+.jobList{
+  margin-top: 30px;
+  padding: 20px;
+  box-shadow: 0px 0px 0.5px 0.5px grey;  
+}
+.about{
+  margin: 30px auto auto 50px;
+  padding-top: 30px;
+}
+.details{
+  clear:both;
+  margin: 30px auto auto 50px;
+  padding-top: 30px;
+}
+.img{
+  margin: 10px;
+  height: 30px;
+}
+
+.clear{
+  clear:both;
+}
+
+.fill-up-footer{
+    color:white;
+    background-color: black
+}

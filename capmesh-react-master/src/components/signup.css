@@ -1,0 +1,73 @@
+
+  * {
+    box-sizing: border-box;
+  }
+ 
+  
+  .containerCSS {
+    max-width: 450px; /*can be in percentage also.*/
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    top: 5px;
+    padding: 5px;
+    background-color: rgba(235, 231, 231,0.9);
+  }
+    label{
+       margin: 0px 5px 5px 20px;
+    }
+  /* Full-width input fields */
+    input[type=text], input[type=password],input[type=email],input[type=number],input[type=date] {
+    width: 80%;
+    padding: 15px;
+    margin: 10px 0px 0px 20px;
+    border: none;
+  
+  }
+    input[type=radio]{
+      margin: 10px 0px 0px 40px;
+    }
+  
+  input[type=text]:focus, input[type=password],input[type=email]:focus {
+    outline: none;
+  }
+  
+  /* Set a style for the submit button */
+  #sumbitBtnId {
+    color: white;
+    padding: 16px 20px;
+    margin: 10px 0px 10px 20px;
+    border: none;
+    width: 90%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  .a{
+    text-align: center;
+      padding: 15px;
+      left: 30px;
+  }
+
+  .errorMessage{
+    color: red;
+    margin: 0px 0px 10px 20px;
+  }
+
+  #orgSingup{
+    margin: 10px 10px 10px 20px;
+    float: right;
+  }
+
+#alignmentH1{
+  text-align:center;
+  }
+
+  #userH1{
+     margin: 5px 5px 10px 20px;
+  }
+
+
+ 
